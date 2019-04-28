@@ -1,0 +1,7 @@
+C:\Users\Hp ProBook\Desktop\New\C#\Shopping\Shopping\Shopping\obj\Debug\Shopping.csprojAssemblyReference.cache
+C:\Users\Hp ProBook\Desktop\New\C#\Shopping\Shopping\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Hp ProBook\Desktop\New\C#\Shopping\Shopping\Shopping\bin\Debug\Shopping.exe.config
+C:\Users\Hp ProBook\Desktop\New\C#\Shopping\Shopping\Shopping\bin\Debug\Shopping.exe
+C:\Users\Hp ProBook\Desktop\New\C#\Shopping\Shopping\Shopping\bin\Debug\Shopping.pdb
+C:\Users\Hp ProBook\Desktop\New\C#\Shopping\Shopping\Shopping\obj\Debug\Shopping.exe
+C:\Users\Hp ProBook\Desktop\New\C#\Shopping\Shopping\Shopping\obj\Debug\Shopping.pdb
